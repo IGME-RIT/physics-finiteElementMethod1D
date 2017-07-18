@@ -1,0 +1,15 @@
+title: Finite Element Method
+author:
+  name: Nicholas Gallagher
+  email:
+  github: MrNex
+description: This is a demonstration of using the finite element method to simulate deformable body physics.
+language: C++
+image:
+  icon: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
+  banner: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
+tags:
+  - C++
+  - Physics
+extra_resources:
+connections:
